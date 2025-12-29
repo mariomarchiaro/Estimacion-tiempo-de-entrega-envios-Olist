@@ -47,7 +47,7 @@ Las métricas de evaluación permiten comparar el desempeño de cada modelo y se
 ---
 
 ## 🛠️ Herramientas y tecnologías
-- Python  
+- Python 
 - Pandas, NumPy  
 - Matplotlib / Seaborn  
 - Scikit-learn  
